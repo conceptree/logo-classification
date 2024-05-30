@@ -1,6 +1,6 @@
 # LOGO CLASSIFICATION
 
-## Academic project for ISCTE Data Science masters part of Computer vision class.
+## Academic project for ISCTE Data Science masters part of Computer vision subject.
 
 ### Group composed by:
 
@@ -10,7 +10,7 @@
 
 ### Description
 
-The efforts reflected by this project aim to implement a image classification based on simple CNN - Convolution Neural Networks techniques using Tensorflow Keras.
+The efforts reflected by this project aim to implement an image classification strategy on simple CNN - Convolution Neural Networks techniques using Tensorflow Keras.
 
 #### train.py
 
@@ -42,6 +42,10 @@ Python >= 3.0
 Tensorflow >= 2.12
 
 ### Usage
+
+To get the assets folder configured in the scripts where lives the dataset please download it from the shared google drive.
+
+https://drive.google.com/drive/folders/1H3wMhXvZ6JnZLYcLSAxeQOYSSZ5QQK6T?usp=sharing 
 
 After cloning this repo you will need to ensure that the pre-required versions are installed and then run the train.py script to generate the pre-trained model.
 
