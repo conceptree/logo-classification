@@ -4,7 +4,7 @@
 
 ### Group composed by:
 
-- Diogo Ferrreira
+- Diogo Fernandes
 - Nuno Rodrigues
 - Tiago Alves
 
